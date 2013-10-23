@@ -1,4 +1,6 @@
-
+html {
+	background: url(http://www.isu.edu/advising/images/background.png) no-repeat right top fixed;
+}
 body {
 	background-color: #cccccc;
 	font-family: Geneva, Arial, Helvetica, sans-serif;
@@ -6,6 +8,8 @@ body {
 	max-width: 1000px;
 	border: solid;
 	border-color: #ffffff;
+	opacity: .95; 
+
 }
 
 header {
